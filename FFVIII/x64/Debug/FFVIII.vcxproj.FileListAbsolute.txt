@@ -1,0 +1,4 @@
+C:\Users\abad\Desktop\FFVIII cheats\FFVIII_cheats\FFVIII\FFVIII\x64\Debug\FFVIII.vcxproj.AssemblyReference.cache
+C:\Users\abad\Desktop\FFVIII cheats\FFVIII_cheats\FFVIII\FFVIII\x64\Debug\FFVIII.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\abad\Desktop\FFVIII cheats\FFVIII_cheats\FFVIII\FFVIII\x64\Debug\FFVIII.MainForm.resources
+C:\Users\abad\Desktop\FFVIII cheats\FFVIII_cheats\FFVIII\FFVIII\x64\Debug\FFVIII.vcxproj.GenerateResource.cache

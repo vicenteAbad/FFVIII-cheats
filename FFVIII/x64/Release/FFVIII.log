@@ -1,0 +1,43 @@
+﻿  MainForm.cpp
+C:\Users\abad\Desktop\FFVIII cheats\FFVIII_cheats\FFVIII\FFVIII\MainForm.cpp(7,1): warning C4829: Parámetros posiblemente incorrectos para la función main. Utilice 'int main(Platform::Array<Platform::String^>^ argv)'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\xstring(2584,23): warning C4244: 'argumento': conversión de 'wchar_t' a 'const _Elem'; posible pérdida de datos
+          with
+          [
+              _Elem=char
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\xstring(2595): message : Vea la referencia a la creación de una instancia de la función plantilla "void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)" que se está compilando
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\xstring(2595): message : Vea la referencia a la creación de una instancia de la función plantilla "void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)" que se está compilando
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\xstring(2575): message : Vea la referencia a la creación de una instancia de la función plantilla "void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)" que se está compilando
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\xstring(2575): message : Vea la referencia a la creación de una instancia de la función plantilla "void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)" que se está compilando
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Users\abad\Desktop\FFVIII cheats\FFVIII_cheats\FFVIII\FFVIII\MainForm.h(361): message : Vea la referencia a la creación de una instancia de la función plantilla "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)" que se está compilando
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+C:\Users\abad\Desktop\FFVIII cheats\FFVIII_cheats\FFVIII\FFVIII\MainForm.h(361): message : Vea la referencia a la creación de una instancia de la función plantilla "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)" que se está compilando
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+  MainForm.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  FFVIII.vcxproj -> C:\Users\abad\Desktop\FFVIII cheats\FFVIII_cheats\FFVIII\x64\Release\FFVIII.exe
